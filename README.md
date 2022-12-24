@@ -1,4 +1,4 @@
-# project3
+# Firebase + flutter
 
 A new Flutter project.
 
